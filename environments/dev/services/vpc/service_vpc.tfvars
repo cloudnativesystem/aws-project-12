@@ -20,7 +20,7 @@ enable_s3_endpoint = true
 
 #
 vpc_tags = {
-  "Name" = "onekloud-infra-vpc-dev"
+  "Name" = "swagwatch-infra-vpc-dev"
 }
 
 #
